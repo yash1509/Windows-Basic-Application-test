@@ -1,0 +1,17 @@
+G:\C# program\LayoutCanvas\LayoutCanvas\bin\Debug\LayoutCanvas.exe.config
+G:\C# program\LayoutCanvas\LayoutCanvas\bin\Debug\LayoutCanvas.exe
+G:\C# program\LayoutCanvas\LayoutCanvas\bin\Debug\LayoutCanvas.pdb
+G:\C# program\LayoutCanvas\LayoutCanvas\obj\Debug\LayoutCanvas.csprojResolveAssemblyReference.cache
+G:\C# program\LayoutCanvas\LayoutCanvas\obj\Debug\MainWindow.g.cs
+G:\C# program\LayoutCanvas\LayoutCanvas\obj\Debug\App.g.cs
+G:\C# program\LayoutCanvas\LayoutCanvas\obj\Debug\LayoutCanvas_MarkupCompile.cache
+G:\C# program\LayoutCanvas\LayoutCanvas\obj\Debug\LayoutCanvas_MarkupCompile.lref
+G:\C# program\LayoutCanvas\LayoutCanvas\obj\Debug\MainWindow.baml
+G:\C# program\LayoutCanvas\LayoutCanvas\obj\Debug\LayoutCanvas.g.resources
+G:\C# program\LayoutCanvas\LayoutCanvas\obj\Debug\LayoutCanvas.Properties.Resources.resources
+G:\C# program\LayoutCanvas\LayoutCanvas\obj\Debug\LayoutCanvas.csproj.GenerateResource.Cache
+G:\C# program\LayoutCanvas\LayoutCanvas\obj\Debug\LayoutCanvas.exe
+G:\C# program\LayoutCanvas\LayoutCanvas\obj\Debug\LayoutCanvas.pdb
+E:\C# program\LayoutCanvas\LayoutCanvas\bin\Debug\LayoutCanvas.exe.config
+E:\C# program\LayoutCanvas\LayoutCanvas\obj\Debug\LayoutCanvas.exe
+E:\C# program\LayoutCanvas\LayoutCanvas\obj\Debug\LayoutCanvas.pdb
