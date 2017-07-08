@@ -1,0 +1,16 @@
+﻿<Window x:Class="MediaPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MediaPlayer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" SizeToContent="WidthAndHeight">
+    <Grid Background="AntiqueWhite">
+        <MediaElement LoadedBehavior="Manual" UnloadedBehavior="Manual" x:Name="mediaElement" HorizontalAlignment="Left" Height="276" Margin="10,10,0,0" VerticalAlignment="Top" Width="497" IsHitTestVisible="False"/>
+        <Button  x:Name="button" Content="Play" HorizontalAlignment="Left" Height="18" Margin="10,291,0,0" VerticalAlignment="Top" Width="54" Click="Play"/>
+        <Button  x:Name="button_Copy" Content="Stop" HorizontalAlignment="Left" Height="18" Margin="69,291,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="1.759,0.556" Click="Stop"/>
+        <Button  x:Name="button_Copy1" Content="Pause" HorizontalAlignment="Left" Height="18" Margin="128,291,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="1.759,0.556" Click="Pause"/>
+        <Button  x:Name="button_Copy2" Content="Load" HorizontalAlignment="Left" Height="18" Margin="187,291,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="1.759,0.556" Click="Loa"/>
+    </Grid>
+</Window>

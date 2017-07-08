@@ -1,0 +1,14 @@
+G:\C# program\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+G:\C# program\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+G:\C# program\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+G:\C# program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+G:\C# program\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.g.cs
+G:\C# program\MediaPlayer\MediaPlayer\obj\Debug\App.g.cs
+G:\C# program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+G:\C# program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
+G:\C# program\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.baml
+G:\C# program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+G:\C# program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+G:\C# program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+G:\C# program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+G:\C# program\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
