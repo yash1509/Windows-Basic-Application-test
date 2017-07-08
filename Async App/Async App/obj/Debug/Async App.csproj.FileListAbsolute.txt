@@ -1,0 +1,28 @@
+G:\C# program\Async App\Async App\bin\Debug\Async App.exe.config
+G:\C# program\Async App\Async App\bin\Debug\Async App.exe
+G:\C# program\Async App\Async App\bin\Debug\Async App.pdb
+G:\C# program\Async App\Async App\obj\Debug\Async App.csprojResolveAssemblyReference.cache
+G:\C# program\Async App\Async App\obj\Debug\MainWindow.g.cs
+G:\C# program\Async App\Async App\obj\Debug\App.g.cs
+G:\C# program\Async App\Async App\obj\Debug\Async App_MarkupCompile.cache
+G:\C# program\Async App\Async App\obj\Debug\Async App_MarkupCompile.lref
+G:\C# program\Async App\Async App\obj\Debug\MainWindow.baml
+G:\C# program\Async App\Async App\obj\Debug\Async App.g.resources
+G:\C# program\Async App\Async App\obj\Debug\Async_App.Properties.Resources.resources
+G:\C# program\Async App\Async App\obj\Debug\Async App.csproj.GenerateResource.Cache
+G:\C# program\Async App\Async App\obj\Debug\Async App.exe
+G:\C# program\Async App\Async App\obj\Debug\Async App.pdb
+E:\C# program\Async App\Async App\bin\Debug\Async App.exe.config
+E:\C# program\Async App\Async App\obj\Debug\Async App.exe
+E:\C# program\Async App\Async App\obj\Debug\Async App.pdb
+E:\C# program\Async App\Async App\bin\Debug\Async App.exe
+E:\C# program\Async App\Async App\bin\Debug\Async App.pdb
+E:\C# program\Async App\Async App\obj\Debug\Async App.csprojResolveAssemblyReference.cache
+E:\C# program\Async App\Async App\obj\Debug\MainWindow.g.cs
+E:\C# program\Async App\Async App\obj\Debug\App.g.cs
+E:\C# program\Async App\Async App\obj\Debug\Async App_MarkupCompile.cache
+E:\C# program\Async App\Async App\obj\Debug\Async App_MarkupCompile.lref
+E:\C# program\Async App\Async App\obj\Debug\MainWindow.baml
+E:\C# program\Async App\Async App\obj\Debug\Async App.g.resources
+E:\C# program\Async App\Async App\obj\Debug\Async_App.Properties.Resources.resources
+E:\C# program\Async App\Async App\obj\Debug\Async App.csproj.GenerateResource.Cache

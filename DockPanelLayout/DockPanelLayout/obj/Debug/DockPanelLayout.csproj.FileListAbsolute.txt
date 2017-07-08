@@ -1,0 +1,1 @@
+G:\C# program\DockPanelLayout\DockPanelLayout\bin\Debug\DockPanelLayout.exe.config

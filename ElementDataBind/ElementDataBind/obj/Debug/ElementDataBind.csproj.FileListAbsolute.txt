@@ -1,0 +1,14 @@
+G:\C# program\ElementDataBind\ElementDataBind\bin\Debug\ElementDataBind.exe.config
+G:\C# program\ElementDataBind\ElementDataBind\bin\Debug\ElementDataBind.exe
+G:\C# program\ElementDataBind\ElementDataBind\bin\Debug\ElementDataBind.pdb
+G:\C# program\ElementDataBind\ElementDataBind\obj\Debug\ElementDataBind.csprojResolveAssemblyReference.cache
+G:\C# program\ElementDataBind\ElementDataBind\obj\Debug\MainWindow.g.cs
+G:\C# program\ElementDataBind\ElementDataBind\obj\Debug\App.g.cs
+G:\C# program\ElementDataBind\ElementDataBind\obj\Debug\ElementDataBind_MarkupCompile.cache
+G:\C# program\ElementDataBind\ElementDataBind\obj\Debug\ElementDataBind_MarkupCompile.lref
+G:\C# program\ElementDataBind\ElementDataBind\obj\Debug\MainWindow.baml
+G:\C# program\ElementDataBind\ElementDataBind\obj\Debug\ElementDataBind.g.resources
+G:\C# program\ElementDataBind\ElementDataBind\obj\Debug\ElementDataBind.Properties.Resources.resources
+G:\C# program\ElementDataBind\ElementDataBind\obj\Debug\ElementDataBind.csproj.GenerateResource.Cache
+G:\C# program\ElementDataBind\ElementDataBind\obj\Debug\ElementDataBind.exe
+G:\C# program\ElementDataBind\ElementDataBind\obj\Debug\ElementDataBind.pdb
