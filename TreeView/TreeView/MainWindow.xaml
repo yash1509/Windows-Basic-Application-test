@@ -1,0 +1,44 @@
+﻿<Window x:Class="TreeView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TreeView"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TreeView>
+            <TreeViewItem Header="Animals">
+                <TreeViewItem Header="Mammals">
+                    <TreeViewItem Header="Dogs">
+                    <TreeViewItem Header="German Sheperd"/>
+                    <TreeViewItem Header="Spaniel"/>
+                    <TreeViewItem Header="Husky"/>
+                </TreeViewItem>
+                </TreeViewItem>
+                <TreeViewItem Header="Marselo">
+                    <TreeViewItem Header="Koala"/>
+                    <TreeViewItem Header="Kangaroo"/>
+                </TreeViewItem>
+            </TreeViewItem>
+            <TreeViewItem Header="Plants">
+                <TreeViewItem Header="Herbivore"/>
+                <TreeViewItem Header="Insectivore"/>
+            </TreeViewItem>
+            <TreeViewItem Header="Others">
+                <TreeViewItem Header="Go Away.">
+                    <TreeViewItem Header="Why wont you go away?">
+                        <TreeViewItem Header="Wanna keep clicking eh?">
+                            <TreeViewItem Header="Okai I am getting bored now.">
+                                <TreeViewItem Header="SERIOUSLY NOW!">
+                                    <TreeViewItem Header="GO AWAY D:"></TreeViewItem>
+                                </TreeViewItem>
+                            </TreeViewItem>
+                        </TreeViewItem>
+                    </TreeViewItem>
+                </TreeViewItem>
+
+            </TreeViewItem>
+        </TreeView>
+    </Grid>
+</Window>
