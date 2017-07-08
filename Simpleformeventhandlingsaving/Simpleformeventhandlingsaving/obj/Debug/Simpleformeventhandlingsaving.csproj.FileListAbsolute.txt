@@ -1,0 +1,14 @@
+G:\C# program\Simpleformeventhandlingsaving\Simpleformeventhandlingsaving\bin\Debug\Simpleformeventhandlingsaving.exe.config
+G:\C# program\Simpleformeventhandlingsaving\Simpleformeventhandlingsaving\obj\Debug\MainWindow.g.cs
+G:\C# program\Simpleformeventhandlingsaving\Simpleformeventhandlingsaving\obj\Debug\App.g.cs
+G:\C# program\Simpleformeventhandlingsaving\Simpleformeventhandlingsaving\obj\Debug\Simpleformeventhandlingsaving_MarkupCompile.cache
+G:\C# program\Simpleformeventhandlingsaving\Simpleformeventhandlingsaving\obj\Debug\Simpleformeventhandlingsaving_MarkupCompile.lref
+G:\C# program\Simpleformeventhandlingsaving\Simpleformeventhandlingsaving\obj\Debug\Simpleformeventhandlingsaving.csprojResolveAssemblyReference.cache
+G:\C# program\Simpleformeventhandlingsaving\Simpleformeventhandlingsaving\bin\Debug\Simpleformeventhandlingsaving.exe
+G:\C# program\Simpleformeventhandlingsaving\Simpleformeventhandlingsaving\bin\Debug\Simpleformeventhandlingsaving.pdb
+G:\C# program\Simpleformeventhandlingsaving\Simpleformeventhandlingsaving\obj\Debug\MainWindow.baml
+G:\C# program\Simpleformeventhandlingsaving\Simpleformeventhandlingsaving\obj\Debug\Simpleformeventhandlingsaving.g.resources
+G:\C# program\Simpleformeventhandlingsaving\Simpleformeventhandlingsaving\obj\Debug\Simpleformeventhandlingsaving.Properties.Resources.resources
+G:\C# program\Simpleformeventhandlingsaving\Simpleformeventhandlingsaving\obj\Debug\Simpleformeventhandlingsaving.csproj.GenerateResource.Cache
+G:\C# program\Simpleformeventhandlingsaving\Simpleformeventhandlingsaving\obj\Debug\Simpleformeventhandlingsaving.exe
+G:\C# program\Simpleformeventhandlingsaving\Simpleformeventhandlingsaving\obj\Debug\Simpleformeventhandlingsaving.pdb

@@ -1,0 +1,38 @@
+﻿<Window x:Class="StatusBar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StatusBar"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StatusBar VerticalAlignment="Bottom" Height="50" Background="Beige" >
+            <StatusBarItem HorizontalAlignment="Left">
+                <TextBlock> Downloading File </TextBlock>
+            </StatusBarItem>
+            <StatusBarItem>
+                <ProgressBar Width="200" Height="30" Margin="5" Name="progressbar">
+                    <ProgressBar.Triggers>
+                        <EventTrigger RoutedEvent="ProgressBar.Loaded">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation 
+                                        Storyboard.TargetName="progressbar"
+                                        Storyboard.TargetProperty="Value"
+                                                From="0" To="100"
+                                        Duration="0:0:10"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </ProgressBar.Triggers>
+                </ProgressBar>
+            </StatusBarItem>
+            <Separator />
+            <StatusBarItem>Online</StatusBarItem>
+            <StatusBarItem HorizontalAlignment="Right">
+                <Button Name="butt" Content="Help" Click="butt_Click"></Button>
+            </StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>

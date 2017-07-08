@@ -1,0 +1,13 @@
+G:\C# program\StatusBar\StatusBar\bin\Debug\StatusBar.exe.config
+G:\C# program\StatusBar\StatusBar\bin\Debug\StatusBar.exe
+G:\C# program\StatusBar\StatusBar\bin\Debug\StatusBar.pdb
+G:\C# program\StatusBar\StatusBar\obj\Debug\MainWindow.g.cs
+G:\C# program\StatusBar\StatusBar\obj\Debug\App.g.cs
+G:\C# program\StatusBar\StatusBar\obj\Debug\StatusBar_MarkupCompile.cache
+G:\C# program\StatusBar\StatusBar\obj\Debug\StatusBar_MarkupCompile.lref
+G:\C# program\StatusBar\StatusBar\obj\Debug\MainWindow.baml
+G:\C# program\StatusBar\StatusBar\obj\Debug\StatusBar.g.resources
+G:\C# program\StatusBar\StatusBar\obj\Debug\StatusBar.Properties.Resources.resources
+G:\C# program\StatusBar\StatusBar\obj\Debug\StatusBar.csproj.GenerateResource.Cache
+G:\C# program\StatusBar\StatusBar\obj\Debug\StatusBar.exe
+G:\C# program\StatusBar\StatusBar\obj\Debug\StatusBar.pdb
