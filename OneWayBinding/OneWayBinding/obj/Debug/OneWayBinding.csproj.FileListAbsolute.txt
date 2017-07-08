@@ -1,0 +1,14 @@
+G:\C# program\OneWayBinding\OneWayBinding\bin\Debug\OneWayBinding.exe.config
+G:\C# program\OneWayBinding\OneWayBinding\obj\Debug\OneWayBinding.csprojResolveAssemblyReference.cache
+G:\C# program\OneWayBinding\OneWayBinding\obj\Debug\MainWindow.g.cs
+G:\C# program\OneWayBinding\OneWayBinding\obj\Debug\App.g.cs
+G:\C# program\OneWayBinding\OneWayBinding\obj\Debug\OneWayBinding_MarkupCompile.cache
+G:\C# program\OneWayBinding\OneWayBinding\obj\Debug\OneWayBinding_MarkupCompile.lref
+G:\C# program\OneWayBinding\OneWayBinding\bin\Debug\OneWayBinding.exe
+G:\C# program\OneWayBinding\OneWayBinding\bin\Debug\OneWayBinding.pdb
+G:\C# program\OneWayBinding\OneWayBinding\obj\Debug\MainWindow.baml
+G:\C# program\OneWayBinding\OneWayBinding\obj\Debug\OneWayBinding.g.resources
+G:\C# program\OneWayBinding\OneWayBinding\obj\Debug\OneWayBinding.Properties.Resources.resources
+G:\C# program\OneWayBinding\OneWayBinding\obj\Debug\OneWayBinding.csproj.GenerateResource.Cache
+G:\C# program\OneWayBinding\OneWayBinding\obj\Debug\OneWayBinding.exe
+G:\C# program\OneWayBinding\OneWayBinding\obj\Debug\OneWayBinding.pdb

@@ -1,0 +1,14 @@
+G:\C# program\SimpleForm\SimpleForm\bin\Debug\SimpleForm.exe.config
+G:\C# program\SimpleForm\SimpleForm\bin\Debug\SimpleForm.exe
+G:\C# program\SimpleForm\SimpleForm\bin\Debug\SimpleForm.pdb
+G:\C# program\SimpleForm\SimpleForm\obj\Debug\SimpleForm.csprojResolveAssemblyReference.cache
+G:\C# program\SimpleForm\SimpleForm\obj\Debug\MainWindow.g.cs
+G:\C# program\SimpleForm\SimpleForm\obj\Debug\App.g.cs
+G:\C# program\SimpleForm\SimpleForm\obj\Debug\SimpleForm_MarkupCompile.cache
+G:\C# program\SimpleForm\SimpleForm\obj\Debug\SimpleForm_MarkupCompile.lref
+G:\C# program\SimpleForm\SimpleForm\obj\Debug\MainWindow.baml
+G:\C# program\SimpleForm\SimpleForm\obj\Debug\SimpleForm.g.resources
+G:\C# program\SimpleForm\SimpleForm\obj\Debug\SimpleForm.Properties.Resources.resources
+G:\C# program\SimpleForm\SimpleForm\obj\Debug\SimpleForm.csproj.GenerateResource.Cache
+G:\C# program\SimpleForm\SimpleForm\obj\Debug\SimpleForm.exe
+G:\C# program\SimpleForm\SimpleForm\obj\Debug\SimpleForm.pdb
